@@ -54,9 +54,9 @@ const HomePage: React.FC = () => {
 
       <div className="flex text-center space-x-6 px-6 py-10" style={{margin:"50px"}}>
         <img style={{ width: '325px', height: '400px', borderRadius:"10px" }} src="https://i.postimg.cc/mkJD2XcH/Peach-and-Green-Modern-Simple-Abstract-Garage-Sale-Flyer-7.png" alt="" />
-        <img style={{ width: '325px', height: '400px', borderRadius:"10px" }} src="https://i.postimg.cc/mkJD2XcH/Peach-and-Green-Modern-Simple-Abstract-Garage-Sale-Flyer-7.png" alt="" />
-        <img style={{ width: '325px', height: '400px', borderRadius:"10px" }} src="https://i.postimg.cc/mkJD2XcH/Peach-and-Green-Modern-Simple-Abstract-Garage-Sale-Flyer-7.png" alt="" />
-        <img style={{ width: '325px', height: '400px', borderRadius:"10px" }} src="https://i.postimg.cc/mkJD2XcH/Peach-and-Green-Modern-Simple-Abstract-Garage-Sale-Flyer-7.png" alt="" />
+        <img style={{ width: '325px', height: '400px', borderRadius:"10px" }} src="https://i.postimg.cc/br7hqRn3/Peach-and-Green-Modern-Simple-Abstract-Garage-Sale-Flyer-6.png" alt="" />
+        <img style={{ width: '325px', height: '400px', borderRadius:"10px" }} src="https://i.postimg.cc/J4SNWH20/Peach-and-Green-Modern-Simple-Abstract-Garage-Sale-Flyer-5.png" alt="" />
+        <img style={{ width: '325px', height: '400px', borderRadius:"10px" }} src="https://i.postimg.cc/grb2gpgz/Peach-and-Green-Modern-Simple-Abstract-Garage-Sale-Flyer-4.png" alt="" />
       </div>
       
     </div>
