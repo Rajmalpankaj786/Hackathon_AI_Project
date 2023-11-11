@@ -85,7 +85,7 @@ export default function Footer() {
       </div>
       <div className="border-t border-solid border-gray-200">
         <div className="container mx-auto py-4 flex flex-col md:flex-row items-center justify-between">
-          <p>© 2023 Project Pilot. All rights reserved</p>
+          <p>© 2023 Synth AI Interview. All rights reserved</p>
         </div>
       </div>
     </div>
