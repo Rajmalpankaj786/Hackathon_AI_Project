@@ -7,7 +7,7 @@ import Dashboard from './components/Dashboard';
 
 function App() {
   return (
-    <div className="App"
+    <div className="App">
       <Navbar />
       <HomePage />
       {/* <h1 className='text-6xl text-red-500 bg-black'>Hackathon Project</h1> */}
