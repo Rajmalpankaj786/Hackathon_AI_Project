@@ -2,24 +2,26 @@
 **Empowering interviews with OpenAI magic**
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Delicious+Handrawn&weight=100&size=53&pause=1000&color=purpale&center=true&vCenter=true&width=605&height=118&lines=Interview + call" alt="Typing SVG" /></a><br></br>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Delicious+Handrawn&weight=100&size=53&pause=1000&color=purpale&center=true&vCenter=true&width=605&height=118&lines=Interview + SynthAI" alt="Typing SVG" /></a><br></br>
 
 </p>
 
-## Logo
-<img src="/Images/Book_My_Bus_Logo.jpg"/>
-
-
 ## Contributors
 
-- [Rajmal Pankaj](Java Developer)(https://github.com/Rajmalpankaj786)
-- [Vamshi Krishna](https://github.com/vk10082000)
-- [Gaurav Raj](https://github.com/gauravraj2601)
-- [Sandhya Patil](https://github.com/patil-sandhya)
-- [Sushree-01](https://github.com/Sushree-01)
+- [Rajmal Pankaj [Java]](https://github.com/Rajmalpankaj786)
+- [Vamshi Krishna[mern]](https://github.com/vk10082000)
+- [Gaurav Raj [mern]](https://github.com/gauravraj2601)
+- [Sandhya Patil [mern]](https://github.com/patil-sandhya)
+- [Sushree-01 [mern]](https://github.com/Sushree-01)
 
 <br>
-Welcome to the Bus Reservation System Portal! This project aims to simplify travel by allowing users to search, select, and reserve bus tickets seamlessly, making their journey easy and convenient.
+
+## OverView 
+Welcome to Interview SynthAI – Your Ultimate Interview Success Partner!
+
+Embark on a journey to ace your interviews with Prepare By Pro, a comprehensive project dedicated to elevating your interview preparation experience. Whether you're gearing up for technical interviews in software engineering or aiming to excel in IT positions, our platform is your go-to resource for a wealth of interview questions and invaluable feedback to sharpen your skills.
+
+Navigate our user-friendly interface effortlessly, where you'll find a treasure trove of curated interview questions and expert guidance. Our project is designed to cater to the diverse needs of aspiring candidates, providing a one-stop solution for honing interview skills and boosting confidence.
 
 ## Features
 
