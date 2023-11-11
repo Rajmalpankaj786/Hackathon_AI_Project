@@ -19,18 +19,25 @@
 ## OverView 
 Welcome to Interview SynthAI – Your Ultimate Interview Success Partner!
 
-Embark on a journey to ace your interviews with Prepare By Pro, a comprehensive project dedicated to elevating your interview preparation experience. Whether you're gearing up for technical interviews in software engineering or aiming to excel in IT positions, our platform is your go-to resource for a wealth of interview questions and invaluable feedback to sharpen your skills.
+Embark on a journey to ace your interviews with Interview SynthAI, a comprehensive project dedicated to elevating your interview preparation experience. Whether you're gearing up for technical interviews in software engineering or aiming to excel in IT positions, our platform is your go-to resource for a wealth of interview questions and invaluable feedback to sharpen your skills.
 
 Navigate our user-friendly interface effortlessly, where you'll find a treasure trove of curated interview questions and expert guidance. Our project is designed to cater to the diverse needs of aspiring candidates, providing a one-stop solution for honing interview skills and boosting confidence.
 
 ## Features
+Extensive question bank covering various topics:
 
-- Search for available bus routes and schedules.
-- Select preferred seats and view seating arrangements.
-- Reservation and give Feedback on bus tickets securely.
-- User-friendly and intuitive interface for a seamless booking experience.
-- Real-time updates on bus availability and ticket status.
-- Customizable settings for user preferences.
+Data Structures and Algorithms
+System Design
+Core Java
+Spring Boot
+TypeScript & JavaScript
+And more!
+User-friendly web interface built with React for an intuitive experience.
+
+Tailwind CSS for sleek and responsive design.
+
+Open API integration to provide up-to-date and relevant content.
+
 
 ### <h2 style="margin-top:100px ;"><i>👨🏻‍💻 Tech Stack & Languages used</i></h2>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
