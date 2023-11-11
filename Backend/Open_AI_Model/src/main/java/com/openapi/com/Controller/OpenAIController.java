@@ -18,6 +18,27 @@ import com.openapi.com.Model.ChatGptResponse;
 @RequestMapping
 @CrossOrigin(origins = "http://localhost:3000")
 public class OpenAIController {
+	@Value("${openai.model}")
+	private String model;
 	
+	@Value("${openai.api.url}")
+	private String apiURL;
+	
+	@Autowired
+	private RestTemplate template;
+	
+	
+	@GetMapping("/chat")
+	public String chat(@RequestParam("prompt")  String prompt) {
+		 ChatGptRequest request= new ChatGptRequest(model, prompt);
+		
+	ChatGptResponse	chatGptResponse= template.postForObject(apiURL, request, ChatGptResponse.class);
+	
+	return chatGptResponse.getChoices().get(0).getMessage().getContent();
+		 
+		 
+	}
+
+
 
 }
