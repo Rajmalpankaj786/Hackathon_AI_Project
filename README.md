@@ -64,43 +64,13 @@ Open API integration to provide up-to-date and relevant content.
 
 
 ## Landing Page
-![Landing page](</Images/1.jpeg>)
-
-## login Page
-![login page](</Images/2.jpeg>)
-
+![Landing page](</Images/1.png>)
 ## Service Page
-![Product page](</Images/3.jpeg>)
+![Product page](</Images/2.png>)
 
-## Booking Page
-![Product page](</Images/4.jpeg>)
+## Controllers
+<img src="Images/swagger.png"/>
 
-## Admin Dashboard
-![admin page](</Images/5.jpeg>)
-
-## Admin See List OF Users
-![admin page](</Images/6.jpeg>)
-
-## Admin See List OF Buses
-![admin page](</Images/7.jpeg>)
-
-## Admin Can add New Buses
-![admin page](</Images/8.jpeg>)
-
-## Admin Can Add New Routes
-![admin page](</Images/9.jpeg>)
-
-## User and Route Controller
-<img src="/Images/sw1.jpeg"/>
-
-## Feedback and Bus Controller
-<img src="/Images/sw2.jpeg"/>
-
-## Reservation Controller
-<img src="/Images/sw3.jpeg"/>
-
-## ER Diagram
-<img src="/Images/Er.png"/>
 ## API Root Endpoint
 
 ```
@@ -114,24 +84,19 @@ http://localhost:8080/swagger-ui/index.html#/
 ## Modules
 - Admin Module
 - User Module
-- Route Module
-- Bus Module
-- Reservation Module
-- Feedback Module
-
 
 ## Getting Started
 
 1. Clone the repository using the command:
    ```
-   https://github.com/Rajmalpankaj786/ReadyToRide_BusReservationSystem.git
+   https://github.com/Rajmalpankaj786/Hackathon_AI_Project/tree/main
    ```
 2.Open MySQL Create the new Database and Create application.yml file: <br></br>
 spring:<br></br>
   datasource:<br></br>
     driver-class-name: com.mysql.cj.jdbc.Driver<br></br>
     password: rajmal<br></br>
-    url: jdbc:mysql://localhost:3306/bus_reservation_database<br></br>
+    url: jdbc:mysql://localhost:3306/openAI_database<br></br>
     username: root<br></br>
   jpa:<br></br>
     hibernate:<br></br>
@@ -142,7 +107,7 @@ spring:<br></br>
 
 ## Deployed Link
 
-https://aquamarine-puffpuff-baa03a.netlify.app/
+https://frontend-puws76tio-vk10082000.vercel.app/
 ## Contributions
 
 We welcome contributions! Feel free to fork the repository, enhance functionalities, and submit pull requests.
