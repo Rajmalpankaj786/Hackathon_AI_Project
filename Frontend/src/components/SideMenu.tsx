@@ -12,7 +12,8 @@ export default function SideMenu(): JSX.Element {
   return (
   
       <div 
-      style={{display:'flex',padding:"10px", flexDirection:"column",justifyContent:"space-between",height:"100vh" ,boxShadow:"rgba(0, 0, 0, 0.05) 0px 0px 0px 1px"}}
+      className={'flex p-10 flex-col justify-between h-screen shadow-md'}
+      // style={{display:'flex',padding:"10px", flexDirection:"column",justifyContent:"space-between",height:"100vh" ,boxShadow:"rgba(0, 0, 0, 0.05) 0px 0px 0px 1px"}}
     
       >
         <div>

@@ -11,7 +11,7 @@ function App() {
       <Navbar />
       <HomePage />
       {/* <h1 className='text-6xl text-red-500 bg-black'>Hackathon Project</h1> */}
-      {/*<Dashboard/>*/}
+      <Dashboard/>
     </div>
   );
 }
