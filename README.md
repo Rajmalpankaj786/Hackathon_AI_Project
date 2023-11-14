@@ -12,7 +12,7 @@
 - [Vamshi Krishna[mern]](https://github.com/vk10082000)
 - [Gaurav Raj [mern]](https://github.com/gauravraj2601)
 - [Sandhya Patil [mern]](https://github.com/patil-sandhya)
-- [Sushree-01 [mern]](https://github.com/Sushree-01)
+
 
 <br>
 
