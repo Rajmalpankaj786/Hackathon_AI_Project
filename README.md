@@ -108,6 +108,10 @@ spring:<br></br>
 ## Deployed Link
 
 https://frontend-puws76tio-vk10082000.vercel.app/
+
+## Video Link 
+https://drive.google.com/file/d/1Dw2Xe9J7TslnjRlNeP8XFjKFsP_qYnGZ/view?usp=sharing
+
 ## Contributions
 
 We welcome contributions! Feel free to fork the repository, enhance functionalities, and submit pull requests.
