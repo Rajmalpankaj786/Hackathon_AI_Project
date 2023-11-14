@@ -1,9 +1,9 @@
 // HomePage.tsx
 
 import React from 'react';
-import Footer from './Footer';
+import { useNavigate } from "react-router-dom";
 const HomePage: React.FC = () => {
-  
+  const navigate = useNavigate();
   return (
     <>
     <div className=" justify-center " style={{ backgroundColor: '#4c3052', color: 'white', padding: '1rem' }}>
@@ -21,7 +21,9 @@ const HomePage: React.FC = () => {
           Wave goodbye to outdated  methods and welcome an intelligent,
           streamlined approach to interview readiness,<br></br> powered by AI.</p>
           <p className='p-10 text-left'>
-          <button className="text-white px-4 py-2 rounded hover:bg-purple-900 transition-colors duration-300" style={{ backgroundColor: 'rgb(163, 96, 155)' }}>Try for Free</button>
+          <button className="text-white px-4 py-2 rounded hover:bg-purple-900 transition-colors duration-300" onClick={()=>{
+            navigate("/dashboard")
+          }}  style={{ backgroundColor: 'rgb(163, 96, 155)' }}>Try for Free</button>
           </p>
       </div>
       </div>
@@ -60,7 +62,7 @@ const HomePage: React.FC = () => {
       </div>
       
     </div>
-    <Footer />
+    
     </>
   );
 };
